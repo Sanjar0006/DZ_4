@@ -1,0 +1,56 @@
+#cursor-tracker {
+    width: 500px;
+    height: 500px;
+    border: black solid 3px;
+    margin-top: 100px;
+}
+.traffic-light {
+    width: 100px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    background-color: #373434;
+}
+.kr {
+    background-color: grey;
+    border-radius: 43%;
+}
+.yel {
+    background-color: grey;
+    border-radius: 43%;
+}
+.gren {
+    background-color: grey;
+    border-radius: 43%;
+}
+.light {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green ;
+}
+
+.light {
+    display: none;
+}
+.trafic {
+    background-color: #373434;
+    width: 25px;
+    height: 180px;
+    margin-left: 36px;
+}
+.butt {
+    margin-left: 120px;
+}
